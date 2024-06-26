@@ -1,0 +1,7 @@
+.isPurchased {
+  text-decoration: line-through;
+}
+
+.list_container {
+  display: flex;
+}

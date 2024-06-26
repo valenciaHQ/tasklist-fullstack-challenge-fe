@@ -1,0 +1,29 @@
+.error_container {
+  height: 100%;
+  background-color: lightcoral;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.empty_container {
+  height: 100%;
+  background-color: cadetblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  color: white;
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list_container {
+  margin-top: 2rem;
+}

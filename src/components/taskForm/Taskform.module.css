@@ -1,0 +1,12 @@
+.input_container {
+  margin: 1rem 0;
+}
+
+.input_container > label {
+  background-color: white;
+  padding: 0 6px;
+}
+
+.form_container {
+  padding: 2rem;
+}
